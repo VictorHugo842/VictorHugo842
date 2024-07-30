@@ -3,16 +3,17 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com/in/victor369/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/victor369/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=5511942681878&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=victor99.santos@gmail.com&su=Ol%C3%A1,%20Victor,%20encontrei%20seu%20perfil%20atrav%C3%A9s%20do%20GitHub!&body=Mande%20sua%20mensagem&bcc=victor99_santos@hotmail.com&tf=cm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:victor99.santos@gmail.com?subject=Olá,%20Victor,%20encontramos%20seu%20perfil%20através%20do%20GitHub!&body=Mande%20sua%20mensagem" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
+
 
 ###
 

@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvendo desde 2022<br>📚 Atualmente estou aprendendo: Novas ferramentas de desenvolvimento e práticando o inglês<br>🎯 Objetivos: Dominar o desenvolvimento de APIs e contribuir para projetos relevantes, além de continuar crescendo na área de tecnologia da informação<br>🎲 Curiosidade: Fui apresentado à programação através de um curso técnico e me apaixonei pela lógica de programação desde a primeira aula!</p>
+<p align="left">✨ Desenvolvendo desde 2023<br>📚 Atualmente estou aprendendo: Novas ferramentas de desenvolvimento e práticando o inglês<br>🎯 Objetivos: Dominar o desenvolvimento de APIs e contribuir para projetos relevantes, além de continuar crescendo na área de tecnologia da informação<br>🎲 Curiosidade: Fui apresentado à programação através de um curso técnico e me apaixonei pela lógica de programação desde a primeira aula!</p>
 
 ###
 

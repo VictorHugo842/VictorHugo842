@@ -28,8 +28,7 @@
 
 ###
 
-<p align="left">Olá! <br><br>Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em Python, JavaScript, MariaDB, e frameworks como Frappe e Flask. Sou Técnico em Informática para Internet pela ETEC e atualmente estou cursando o Tecnólogo em Gestão da Tecnologia da Informação na FATEC em Jundiaí. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.<br><br>Aqui no meu GitHub, você encontrará projetos variados, como meu portfólio e outras aplicações. Gosto de explorar novas tecnologias e compartilhar soluções criativas, então fique à vontade para explorar meus repositórios, contribuir e me enviar feedback!<br><br>Abraços!</p>
-
+<p align="left">Olá! <br><br>Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em Python, JavaScript, MariaDB, e frameworks como Frappe e Flask. Sou Técnico em Informática para Internet pela ETEC e atualmente estou cursando o Tecnólogo em Gestão da Tecnologia da Informação na FATEC em Jundiaí. Estou sempre em busca de expandir meus conhecimentos e aplicar minhas habilidades em soluções inovadoras.<br><br>Aqui no meu GitHub, você encontrará projetos variados, como meu portfólio e outras aplicações. Gosto de explorar novas tecnologias e compartilhar soluções criativas, então fique à vontade para explorar meus repositórios, contribuir e me enviar feedback!<br><br>Abraços!</p>
 
 ###
 
